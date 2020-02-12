@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "title": "Contact",
+    "content": "Please contact us for any inquiry",
+    "form": {
+      "button": {
+        "content": "This is the content of the button",
+        "title": "Submit"
+      },
+      "email": {
+        "error": "A valid email is required",
+        "title": "Email"
+      },
+      "error": {
+        "sendEmail": {
+          "email": "email",
+          "text": "Please send us an"
+        },
+        "title": "Sorry, an error has occurred"
+      }
+    }
+  }
+}

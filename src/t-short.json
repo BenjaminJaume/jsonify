@@ -1,0 +1,126 @@
+{
+  "contact": {
+    "title": "Contact",
+    "content": "Please contact us for any inquiry",
+    "form": {
+      "button": {
+        "content": "This is the content of the button",
+        "title": "Submit"
+      },
+      "email": {
+        "error": "A valid email is required",
+        "title": "Email"
+      },
+      "error": {
+        "sendEmail": {
+          "email": "email",
+          "text": "Please send us an"
+        },
+        "title": "Sorry, an error has occurred"
+      },
+      "errorMessage": {
+        "emailAtMissing": "The email must contain one @",
+        "emailDotMissing": "The email must contain at least one dot",
+        "emailEmpty": "The email address cannot be empty",
+        "emailInvalidFormat": "The email format is invalid",
+        "messageEmpty": "The message cannot be empty",
+        "messageLonger": "The message must be at least 5 caracters long",
+        "nameEmpty": "The name cannot be empty",
+        "nameLonger": "The name must be at least 5 caracters long"
+      },
+      "message": {
+        "error": "Please, leave a message",
+        "title": "Message"
+      },
+      "name": {
+        "error": "A name is required",
+        "title": "Name"
+      },
+      "success": {
+        "reply": "We will reply shortly",
+        "title": "Successfully sent, thank you!"
+      }
+    }
+  },
+  "footer": {
+    "openingHours": {
+      "friday": "Fri",
+      "monday": "Mon",
+      "saturday": "Sat",
+      "sunday": "Sun",
+      "thursday": "Thu",
+      "title": "Open daily",
+      "to": "to",
+      "tuesday": "Tue",
+      "wednesday": "Wed"
+    },
+    "participate": {
+      "affiliate": "Affiliate",
+      "donate": "Donate",
+      "sponsor": "Sponsor",
+      "suggestions": "Suggestions",
+      "title": "Participe",
+      "workWithUs": "Work with us"
+    },
+    "presentation": {
+      "navigation": "Open Maps"
+    },
+    "socialNetworks": {
+      "copyright": "All right reserved",
+      "title": "Social networks",
+      "web-developer": "Web Designer",
+      "whatsappPopover": {
+        "content": "Open WhatsApp or copy",
+        "copied": "Copied!",
+        "copy": "Copy phone number",
+        "openLink": "Open link with",
+        "or": "or",
+        "title": "Contact us"
+      }
+    }
+  },
+  "navbar": {
+    "contact": "Contact",
+    "events": "Events",
+    "gymnasium": "Gym",
+    "home": "Home",
+    "multisport": "Multisport",
+    "soccer5": "Soccer5"
+  },
+  "other": {
+    "construction": {
+      "hover": "Sorry for the inconvenience",
+      "message": "This side of the website hasn't opened yet"
+    },
+    "homepageMessage": "Go back to the home page",
+    "makeBooking": "Booking"
+  },
+  "page404": {
+    "message": "Sometimes you fall... but you should rise every time you do!",
+    "title": "Page not found"
+  },
+  "soccer5": {
+    "calendar": {
+      "title": "Calendar"
+    },
+    "prices": {
+      "afternoon": {
+        "title": "Afternoon"
+      },
+      "buttonContact": "Book your spot",
+      "hour": "hour",
+      "morning": {
+        "title": "Morning"
+      },
+      "night": {
+        "title": "Night"
+      },
+      "title": "Prices"
+    },
+    "rules": {
+      "content": "To write",
+      "title": "Rules"
+    },
+    "title": "Soccer5"
+  }
+}
