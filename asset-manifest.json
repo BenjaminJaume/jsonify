@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jsonify/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jsonify/static/js/main.326ef82e.chunk.js",
+    "main.js.map": "/jsonify/static/js/main.326ef82e.chunk.js.map",
+    "runtime-main.js": "/jsonify/static/js/runtime-main.cc9e9501.js",
+    "runtime-main.js.map": "/jsonify/static/js/runtime-main.cc9e9501.js.map",
+    "static/js/2.a7de84f8.chunk.js": "/jsonify/static/js/2.a7de84f8.chunk.js",
+    "static/js/2.a7de84f8.chunk.js.map": "/jsonify/static/js/2.a7de84f8.chunk.js.map",
+    "index.html": "/jsonify/index.html",
+    "precache-manifest.3fcfa4b9f98ef897ef1da804f8c0df40.js": "/jsonify/precache-manifest.3fcfa4b9f98ef897ef1da804f8c0df40.js",
+    "service-worker.js": "/jsonify/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jsonify/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a7de84f8.chunk.js.LICENSE.txt": "/jsonify/static/js/2.a7de84f8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jsonify/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc9e9501.js",
+    "static/js/2.a7de84f8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.326ef82e.chunk.js"
+  ]
+}
